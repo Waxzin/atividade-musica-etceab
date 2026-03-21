@@ -15,4 +15,4 @@ Console.WriteLine("All you other Slim Shadys are just imitatin");
 Console.WriteLine("So won't the real Slim Shady, please, stand up?");
 Console.WriteLine("Please, stand up");
 Console.WriteLine("Please, stand up");
-
+Console.ResetColor();
